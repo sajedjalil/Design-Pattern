@@ -37,7 +37,7 @@
     </properties>
 
     <build>
-        <sourceDirectory>src/main/java, src/main/test</sourceDirectory>
+        <sourceDirectory>src/main/java</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.jacoco</groupId>
