@@ -1,6 +1,7 @@
 dist: bionic
 language: java
 jdk: oraclejdk14
+sudo: required
 
 install:
   - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
