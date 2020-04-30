@@ -7,7 +7,9 @@ install:
 
 script:
   - mvn clean install
-  - bash <(curl -s https://codecov.io/bash)
+  - mvn test
+after_success:
+  - bash <(curl -s https://codecov.io/bash) -f "*Test.xml"
 
 
 cache:
