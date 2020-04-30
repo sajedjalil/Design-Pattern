@@ -4,5 +4,7 @@
 [![HitCount](http://hits.dwyl.com/sajed49/Design-Pattern.svg)](http://hits.dwyl.com/sajed49/Design-Pattern)
 [![Gitter](https://badges.gitter.im/java-design-pattern/community.svg)](https://gitter.im/java-design-pattern/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+[![Generic badge](https://img.shields.io/badge/Java-14.0-Blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Maven-3.6.1-Blue.svg)](https://shields.io/)
 # Design-Pattern
 Java based design pattern description and examples
