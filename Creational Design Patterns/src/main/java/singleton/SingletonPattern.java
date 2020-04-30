@@ -1,3 +1,5 @@
+package singleton;
+
 /**
  * @author Sajed Jalil
  * @date 20 April 2020
